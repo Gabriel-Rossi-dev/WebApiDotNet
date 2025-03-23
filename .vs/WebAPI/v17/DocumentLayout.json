@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\C#\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9D48DD-7D7E-4623-BBE1-09C48310D3E4}|WebAPI\\WebAPI.csproj|d:\\development\\c#\\webapi\\webapi\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9D48DD-7D7E-4623-BBE1-09C48310D3E4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9D48DD-7D7E-4623-BBE1-09C48310D3E4}|WebAPI\\WebAPI.csproj|d:\\development\\c#\\webapi\\webapi\\models\\produtomodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9D48DD-7D7E-4623-BBE1-09C48310D3E4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\produtomodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9D48DD-7D7E-4623-BBE1-09C48310D3E4}|WebAPI\\WebAPI.csproj|d:\\development\\c#\\webapi\\webapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9D48DD-7D7E-4623-BBE1-09C48310D3E4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9D48DD-7D7E-4623-BBE1-09C48310D3E4}|WebAPI\\WebAPI.csproj|d:\\development\\c#\\webapi\\webapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9D48DD-7D7E-4623-BBE1-09C48310D3E4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Development\\C#\\WebAPI\\WebAPI\\Models\\ProdutoModelVendaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Models\\ProdutoModelVendaDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoModelVendaDto.cs",
+              "DocumentMoniker": "D:\\Development\\C#\\WebAPI\\WebAPI\\Models\\ProdutoModelVendaDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\ProdutoModelVendaDto.cs",
+              "ToolTip": "D:\\Development\\C#\\WebAPI\\WebAPI\\Models\\ProdutoModelVendaDto.cs",
+              "RelativeToolTip": "WebAPI\\Models\\ProdutoModelVendaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:16:40.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoModelDto.cs",
+              "DocumentMoniker": "D:\\Development\\C#\\WebAPI\\WebAPI\\Models\\ProdutoModelDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\ProdutoModelDto.cs",
+              "ToolTip": "D:\\Development\\C#\\WebAPI\\WebAPI\\Models\\ProdutoModelDto.cs",
+              "RelativeToolTip": "WebAPI\\Models\\ProdutoModelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:39:52.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoModel.cs",
+              "DocumentMoniker": "D:\\Development\\C#\\WebAPI\\WebAPI\\Models\\ProdutoModel.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\ProdutoModel.cs",
+              "ToolTip": "D:\\Development\\C#\\WebAPI\\WebAPI\\Models\\ProdutoModel.cs",
+              "RelativeToolTip": "WebAPI\\Models\\ProdutoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:21:03.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "D:\\Development\\C#\\WebAPI\\WebAPI\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProdutoController.cs",
+              "ToolTip": "D:\\Development\\C#\\WebAPI\\WebAPI\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:21:03.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Development\\C#\\WebAPI\\WebAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Development\\C#\\WebAPI\\WebAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:38:23.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
